@@ -1,0 +1,37 @@
+Progress pembuatan aplikasi asnet cloud
+
+
+1. penyesuaian template file manager kedalam codeigniter
+2. pembuatan sidebar : 
+   A. drive saya
+      - Home
+      - Favorite
+      - Recent Files
+      
+   B. Shared Files
+      - Dishare di Public
+      - Dishare di Grub
+      - Dishare ke saya
+      - Dishare oleh saya
+
+   C. Categories
+      - Documents
+      - Pictures
+      - Musics
+      - Videos
+      - Compressed
+      - Others
+  
+ 3. Pembuatan database dan tables
+ 4. pembuatan content load files.
+ 5. pembuatan fitur view tiles dan details
+ 6. Pembuatan fitur upload files
+ 7. pembuatan fitur :
+    a. Ubah Nama
+    b. Buat Salinan
+    c. Download
+    d. Download as ZIP
+    e. Jadikan favorite --dan-- hapus favorite
+    f. Share... --dan-- hapus share
+    g. Hapus item.
+    
